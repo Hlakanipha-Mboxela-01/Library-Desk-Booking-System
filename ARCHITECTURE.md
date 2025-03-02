@@ -20,7 +20,7 @@ The system will allow users to book desks and administrators to manage desk avai
   - Users (Library visitors)
   - Admin (Library staff)
   - Database (SQL database for storing desk and user information)
-
+```mermaid
 graph TB
     User[User] -->|Books Desk| LibrarySystem[Library Desk Booking System]
     Admin[Admin] -->|Manages Bookings| LibrarySystem
