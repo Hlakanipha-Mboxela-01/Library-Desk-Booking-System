@@ -25,6 +25,6 @@ The problem addressed by this system is the management of desk availability in l
   
 - **Feasibility Justification**:
   - The project is feasible as it will be developed using **Java** for both the backend logic and the user interface (UI). Java is widely used and well-suited for building both server-side applications and client interfaces.
-  - The system will use **SQL** (e.g., MySQL or PostgreSQL) to store user details, desk availability, and booking data. SQL databases are reliable and well-suited for managing structured data.
+  - The system will use **SQL** to store user details, desk availability, and booking data. SQL databases are reliable and well-suited for managing structured data.
   - The project will use a simple user interface, potentially built with **JavaFX** or **Swing**, which are both capable of providing interactive desktop applications.
   - This system will help libraries reduce human error, improve user experience, and optimize desk usage management.
