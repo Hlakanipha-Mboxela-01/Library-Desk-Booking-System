@@ -33,6 +33,8 @@ graph TB
 - **Frontend**: The client-side interface allows users and admins to interact with the system.
 - **Database**: Stores user information, desk availability, and bookings.
 
+```mermaid
+
 graph TD
     User[User Interface] -->|Accesses via browser| WebServer[Web Server]
     WebServer -->|Sends requests to| AppServer[Application Server]
@@ -43,7 +45,7 @@ graph TD
         AppServer
         Database
     end
-
+```
 
 ### 2.3 Component Diagram
 - **Booking System**: Handles desk reservations.
