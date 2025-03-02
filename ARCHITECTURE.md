@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-### Project Title: Library Desk Booking System (Java)
+### Project Title: Library Desk Booking System 
 
 ### Domain: Library Management System
 - **Description**: The system is designed to streamline the desk reservation process in libraries.
@@ -11,11 +11,16 @@
 Manual desk reservations can lead to mistakes and inefficiencies. This system automates the process to improve usability and desk management.
 
 ### Scope
-The system will allow users to book desks and administrators to manage desk availability.
+The scope of this project includes:
+- **User functionality**: Allowing users to view available desks, make bookings, and cancel reservations.
+- **Admin functionality**: Enabling administrators to manage desk availability, view reservations, and cancel or modify bookings.
+- **Feasibility justification**: The project is feasible within the constraints of the system's scope, and the necessary technologies (Java, SQL) are suitable for the system's requirements. The implementation will be scalable and adaptable to various library sizes and desk arrangements.
 
 ## 2. C4 Diagrams
 
 ### 2.1 Context Diagram
+Shows interactions between the user, admin, system, and database.
+
 - The **Library Desk Booking System** interacts with:
   - Users (Library visitors)
   - Admin (Library staff)
@@ -29,6 +34,9 @@ graph TB
 ```
 
 ### 2.2 Container Diagram
+Describes the system architecture components (backend, frontend, and database).
+The system architecture is divided into three main components:
+
 - **Backend**: The system’s backend is responsible for managing user requests, booking desks, and storing data.
 - **Frontend**: The client-side interface allows users and admins to interact with the system.
 - **Database**: Stores user information, desk availability, and bookings.
@@ -48,6 +56,7 @@ graph TD
 ```
 
 ### 2.3 Component Diagram
+Shows individual system components like the booking system, user management, and admin management.
 - **Booking System**: Handles desk reservations.
 - **User Management**: Manages user authentication and registration.
 - **Admin Management**: Admins can manage desks and bookings.
@@ -60,8 +69,8 @@ graph LR
 ```
 
 ### 2.4 Deployment Diagram
-- The system will be deployed on a local machine or server with database access.
-  
+Demonstrates how the system will be deployed and how components interact with each other.
+
 ```mermaid
 
 graph LR
