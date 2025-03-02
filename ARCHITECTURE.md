@@ -26,6 +26,7 @@ graph TB
     User[User] -->|Books Desk| LibrarySystem[Library Desk Booking System]
     Admin[Admin] -->|Manages Bookings| LibrarySystem
     LibrarySystem -->|Uses| Database[(Database)]
+```
 
 ### 2.2 Container Diagram
 - **Backend**: The system’s backend is responsible for managing user requests, booking desks, and storing data.
