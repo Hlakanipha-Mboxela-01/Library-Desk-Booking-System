@@ -51,14 +51,18 @@ graph TD
 - **Booking System**: Handles desk reservations.
 - **User Management**: Manages user authentication and registration.
 - **Admin Management**: Admins can manage desks and bookings.
-
+  
+```mermaid
 graph LR
     Booking[Booking System] -->|Manages| Desk[Desk Management]
     User[User Management] -->|Handles| UserDetails[User Details]
     Admin[Admin Management] -->|Manages| AdminDetails[Admin Details]
+```
 
 ### 2.4 Deployment Diagram
 - The system will be deployed on a local machine or server with database access.
+  
+```mermaid
 
 graph LR
     User[User Interface] -->|Accesses via browser| WebServer[Web Server]
@@ -73,3 +77,4 @@ graph LR
 
     User -.->|Accesses via internet| Cloud
 
+```
