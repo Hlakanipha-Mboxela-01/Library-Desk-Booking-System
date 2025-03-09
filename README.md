@@ -11,9 +11,12 @@ This system improves library management by eliminating the need for manual desk 
 
 - [System Specification](SPECIFICATION.md)
 - [Architecture Design](ARCHITECTURE.md)
-- STAKEHOLDERS.md
-- System_Requirements.md
-- Reflection.md
+- [STAKEHOLDERS.md](STAKEHOLDERS.md)
+- [System Requirements](System_Requirements.md)
+- [Reflection on Challenges](Reflection.md)
+
+
+
   
 
 ## Features
