@@ -11,8 +11,9 @@ This system improves library management by eliminating the need for manual desk 
 
 - [System Specification](SPECIFICATION.md)
 - [Architecture Design](ARCHITECTURE.md)
-- https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/STAKEHOLDERS.md
+- STAKEHOLDERS.md
 - System_Requirements.md
+- Reflection.md
   
 
 ## Features
