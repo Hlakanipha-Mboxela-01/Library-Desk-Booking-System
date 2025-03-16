@@ -14,6 +14,7 @@ This system improves library management by eliminating the need for manual desk 
 - [STAKEHOLDERS.md](STAKEHOLDERS.md)
 - [System Requirements](System_Requirements.md)
 - [Reflection on Challenges](Reflection.md)
+- [Use case diagram]([Use case diagram.md)
 
 
 
