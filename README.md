@@ -14,10 +14,10 @@ This system improves library management by eliminating the need for manual desk 
 - [STAKEHOLDERS.md](STAKEHOLDERS.md)
 - [System Requirements](System_Requirements.md)
 - [Reflection on Challenges](Reflection.md)
--[Use Case Diagram](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Use%20case%20diagram.md)  
-[Test Case Development](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Test%20Case%20Development.md)  
-[Use Case Specifications](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Use%20Case%20Specifications.md)  
-[Reflection 2](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Reflection2.md)
+- [Use Case Diagram](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Use%20case%20diagram.md)
+- [Test Case Development](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Test%20Case%20Development.md)
+- [Use Case Specifications](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Use%20Case%20Specifications.md)
+- [Reflection 2](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Reflection2.md)
 
 
 
