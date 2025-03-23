@@ -2,6 +2,12 @@
 
 This document serves as the comprehensive Agile Planning Document for the Library Desk Booking System project. It includes the following sections:
 
+[User Stories](User%20Stories%20-%20Library%20Desk%20Booking%20System.md)
+[Product Backlog](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/product_backlog.md)
+[Sprint Planning](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Sprint%20Planning.md)
+
+
+
 1. **User Stories**
 2. **Product Backlog**
 3. **Sprint Planning**
