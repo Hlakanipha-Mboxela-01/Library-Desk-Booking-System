@@ -18,7 +18,7 @@ This system improves library management by eliminating the need for manual desk 
 - [Test Case Development](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Test%20Case%20Development.md)
 - [Use Case Specifications](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Use%20Case%20Specifications.md)
 - [Reflection 2](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Reflection2.md)
-- [Agile Planning Document](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Agile%20Planning%20Document.md))
+- [Agile Planning Document](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Agile%20Planning%20Document.md)
 
 - 
 
