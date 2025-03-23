@@ -20,7 +20,7 @@ This system improves library management by eliminating the need for manual desk 
 - [Reflection 2](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Reflection2.md)
 - [Agile Planning Document](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Agile%20Planning%20Document.md)
 
-- 
+
 
 
 
