@@ -34,7 +34,7 @@ The following user stories were created by converting functional requirements fr
 
 ---
 
-## 2. 📋 Product Backlog
+## 2. Product Backlog
 
 The product backlog is prioritized using MoSCoW methodology, with effort estimates assigned to each user story. 
 
