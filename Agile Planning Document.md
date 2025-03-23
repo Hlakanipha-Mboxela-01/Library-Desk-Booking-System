@@ -88,8 +88,21 @@ The user stories and tasks in this sprint align with the **functional requiremen
 | FR-005: Confirmation email | US-005 | Students receive email confirmation after booking. |
 | FR-006: Reports on desk usage | US-006 | Administrators can generate reports on desk usage. |
 
----
----
+# 5.Reflection: Challenges in Prioritization, Estimation, and Aligning Agile with Personal Needs
+
+The following reflections describe the challenges faced during the **Agile planning process** for the Library Desk Booking System project.
+
+# 1. Prioritization Difficulties
+As the **sole stakeholder**, it was challenging to decide which features were **essential** versus **optional**. Typically, prioritization involves multiple perspectives, but in this case, I was forced to make all the decisions alone. This led to difficulties in determining the right balance between critical features and those that could be deferred to later stages.
+
+# 2. Effort Estimation Struggles
+Estimating the **effort** for tasks, particularly technical ones, was another challenge. I attempted to use **story points** (e.g., Fibonacci sequence) for effort estimation, which helped with **relative estimation**. However, despite using this approach, I still experienced **underestimation** in certain tasks. This shows the inherent difficulty of predicting effort, especially when working alone and without a collaborative team to give feedback.
+
+# 3. Aligning Agile with Personal Needs
+Working solo meant I didn't have the usual **team collaboration** that Agile assumes. This lack of interaction led to moments of **resistance** and **frustration**. Agile is meant to be iterative, involving frequent reviews and input from various team members, but without that support, it was easy to become stuck in my own thoughts. The absence of regular feedback caused me to sometimes prioritize **deadlines** over perfecting the features. This also led to moments where I felt uncertain about the **direction** of the project.
+
+Despite these challenges, Agile's **flexibility** allowed me to adapt and work through the process. **Prioritization**, **effort estimation**, and **aligning Agile** with personal needs were difficult to navigate alone, but the experience helped me grow in understanding how to better handle **uncertainty** and **complexity** in future projects.
+
 
 ###  Conclusion
-This document outlines the user stories, product backlog, sprint plan, and traceability to the project requirements. It serves as a comprehensive reference for ensuring all features align with the functional requirements and contribute to the overall project success.
+This document outlines the user stories, product backlog, sprint plan, traceability to the project requirements reflections. It serves as a comprehensive reference for ensuring all features align with the functional requirements and contribute to the overall project success.
