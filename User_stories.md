@@ -1,11 +1,11 @@
-# 📖 User Stories  
+# User Stories  
 
-## 🎯 Overview  
+##  Overview  
 This document contains user stories converted from functional requirements and use cases for the Library Desk Booking System. Each story follows the INVEST criteria and is tracked using GitHub Issues and Milestones.
 
 ---
 
-## 📜 User Stories  
+##  User Stories  
 
 | Story ID | User Story | Acceptance Criteria | Priority |
 |----------|-----------|---------------------|----------|
@@ -20,7 +20,7 @@ This document contains user stories converted from functional requirements and u
 
 ---
 
-## 🔒 Non-Functional User Stories  
+## Non-Functional User Stories  
 
 | Story ID | User Story | Acceptance Criteria | Priority |
 |----------|-----------|---------------------|----------|
@@ -28,4 +28,3 @@ This document contains user stories converted from functional requirements and u
 | US-010 | As an IT staff member, I want the system to have 99.9% uptime so that users experience minimal downtime. | System downtime does not exceed **43 minutes per month**. | High |
 
 ---
-
