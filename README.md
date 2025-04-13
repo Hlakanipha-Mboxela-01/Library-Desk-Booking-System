@@ -22,6 +22,7 @@ This system improves library management by eliminating the need for manual desk 
 - [STATE_DIAGRAMS](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/STATE_DIAGRAMS.md)
 - [Workflow_modelling](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/workflow_modelling.md)
 - [Diagram_REFLECTION](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Diagram_REFLECTION.md)
+- [Domain_Model](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/Domain_model.md)
 
 
 
