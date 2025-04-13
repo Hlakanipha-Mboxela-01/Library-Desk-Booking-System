@@ -18,4 +18,6 @@
 - A room must contain **at least one desk**.
 - A booking must be associated with exactly **one user, one desk, and one time slot**.
 - Only admins can **manage desks** (add, edit, remove) and **view all bookings**.
+- A desk cannot be booked by more than one user in the same time slot.
+- Admins can add or remove desks, but users can only book available ones.
 
