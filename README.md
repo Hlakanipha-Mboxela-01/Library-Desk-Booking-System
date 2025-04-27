@@ -29,6 +29,10 @@ This system improves library management by eliminating the need for manual desk 
 -  [/creational_patterns](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/tree/main/creational_patterns)
 -  [/tests](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/tree/main/tests)
 -  [CHANGELOG.md](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/CHANGELOG.md)
+-  [Repository interface design](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/tree/main/src/repositories)
+-  [Working in-memory implementation](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/tree/main/src/repositories/inmemory)
+- [Storage-Abstraction Mechanism](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/tree/main/src/repositories/factories)
+- [Future-Proofing](https://github.com/Hlakanipha-Mboxela-01/Library-Desk-Booking-System/blob/main/FileSystemBookRepository_ClassDiagram.md)
 
 
 
