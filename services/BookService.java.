@@ -1,1 +1,47 @@
+package com.yourname.library.services;
+
+import com.yourname.library.models.Book;
+import com.yourname.library.repositories.BookRepository;
+import com.yourname.library.exceptions.BookNotFoundException;
+import com.yourname.library.exceptions.BookAlreadyCheckedOutException;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public class BookService {
+
+    private final BookRepository bookRepo;
+
+    public BookService(BookRepository bookRepo) {
+        this.bookRepo = bookRepo;
+    }
+
+    public List<Book> getAllBooks() {
+        return bookRepo.findAll();
+    }
+
+    public Book createBook(Book book) {
+        return bookRepo.save(book);
+    }
+
+    public Book updateBook(String id, Book updatedBook) {
+        Book book = bookRepo.findById(id)
+                .orElseThrow(() -> new BookNotFoundException(id));
+        book.setTitle(updatedBook.getTitle());
+        book.setAuthor(updatedBook.getAuthor());
+        // Add other updates here
+        return bookRepo.save(book);
+    }
+
+    public Book checkoutBook(String bookId) {
+        Book book = bookRepo.findById(bookId)
+                .orElseThrow(() -> new BookNotFoundException(bookId));
+        if (book.isCheckedOut()) {
+            throw new BookAlreadyCheckedOutException(bookId);
+        }
+        book.setCheckedOut(true);
+        return bookRepo.save(book);
+    }
+}
 
